@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 
-import Button from '../UI/Button';
+import Button from './UI/Button';
 import { currencyFormatter } from '../utils/formatting';
 import CartContext from '../store/CartContext';
 
